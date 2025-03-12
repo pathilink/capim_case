@@ -30,8 +30,8 @@ The main interest of clinics is the buy now pay later (BNPL), but after the test
 ## 3. Next steps
 
 - **Collecting additional data on the testing period**: it is essential to collect more in-depth data specific to this stage, such as reasons for dropping out, engagement during the test and user feedback.
-- **Qualitative analysis of marketing communication**: a possible breach of expectations between the initial promise and the experience during the test deserves a detailed evaluation
-- **Exploit opportunities with the low cancellation rate**: The cancellation rate of only 12% among those who subscribed to the product indicates significant satisfaction after joining - use testimonials from these customers to strengthen communication with new prospects
+- **Qualitative analysis of marketing communication**: a possible breach of expectations between the initial promise and the experience during the test deserves a detailed evaluation.
+- **Exploit opportunities with the low cancellation rate**: The cancellation rate of only 12% among those who subscribed to the product indicates significant satisfaction after joining - use testimonials from these customers to strengthen communication with new prospects.
 
 ## 4. Development of the Solution
 <img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=yellow" />  ![Badge](https://img.shields.io/badge/Colab-Google-%F9AB00?style=flat&logo=Google-Colab&color=blue)
@@ -45,7 +45,7 @@ The analysis was carried out using the following steps:
 
     * Date variables have had their data types changed.
 
-    * The three columns were joined by the CLINIC_ID key.
+    * The three tables were joined by the CLINIC_ID key.
 
     * New variables were created to help analyze the data.
 
